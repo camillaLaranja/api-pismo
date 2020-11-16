@@ -42,7 +42,7 @@ Para rodar a API, utilizei o Eclipse e o Postman.
 No Eclipse: executar o projeto e logo após a conclusão da execução, rodar os endpoints informados no Postman.  
 Não é necessário se preocupar com Banco de Dados pois o Spring Boot cria um banco em memória no momento da execução do projeto.  
 
-Para construir a API, utilizei a linguagem Java e o Sprin Boot.
+Para construir a API, utilizei a linguagem Java e o Spring Boot.
 O motivo dessa escolha foi que a Linguagem Java eu já utilizo a bastante tempo nas empresas e tenho mais conhecimento e experiência.
 E o Spring Boot eu aprendi para a realização do teste da Pismo.
 A respeito do Spring Boot, pesquisei e aprendi que com ele é mais rápido iniciar uma aplicação do zero. 
